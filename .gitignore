@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# wsl2 ubuntu2404 image identifier file
+*.Identifier
